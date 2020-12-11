@@ -10,3 +10,4 @@ https://stackoverflow.com/questions/62893815/dialogflow-with-android // Start he
 https://stackoverflow.com/questions/52852519/dialogflow-detection-intent-from-audio // Finding intents
 Building a voicebot is hard! 
 Still super difficult... 
+Found out that dialogflow is not free... looking into azure

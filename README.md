@@ -6,3 +6,5 @@ https://medium.com/google-cloud/building-your-own-conversational-voice-ai-with-d
 https://www.singlestoneconsulting.com/blog/how-to-build-your-own-chatbot-with-dialogflow/ // How to train your chatbot pt 1
 https://stackoverflow.com/questions/54546698/intent-with-required-parameter-showing-the-count-of-items // Counting the number of things
 https://stackoverflow.com/questions/59155464/an-app-that-counts-the-number-of-spoken-words-by-using-speech-recognition // Might be useful - Counting the number of words
+https://stackoverflow.com/questions/62893815/dialogflow-with-android // Start here
+https://stackoverflow.com/questions/52852519/dialogflow-detection-intent-from-audio // Finding intents

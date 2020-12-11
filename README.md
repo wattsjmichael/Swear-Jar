@@ -9,3 +9,4 @@ https://stackoverflow.com/questions/59155464/an-app-that-counts-the-number-of-sp
 https://stackoverflow.com/questions/62893815/dialogflow-with-android // Start here
 https://stackoverflow.com/questions/52852519/dialogflow-detection-intent-from-audio // Finding intents
 Building a voicebot is hard! 
+Still super difficult... 

@@ -8,3 +8,4 @@ https://stackoverflow.com/questions/54546698/intent-with-required-parameter-show
 https://stackoverflow.com/questions/59155464/an-app-that-counts-the-number-of-spoken-words-by-using-speech-recognition // Might be useful - Counting the number of words
 https://stackoverflow.com/questions/62893815/dialogflow-with-android // Start here
 https://stackoverflow.com/questions/52852519/dialogflow-detection-intent-from-audio // Finding intents
+Building a voicebot is hard! 
